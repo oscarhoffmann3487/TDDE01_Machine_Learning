@@ -1,6 +1,0 @@
-[1,"Installing 'tree' ...\n"]
-[2,"trying URL 'https://cran.rstudio.com/bin/macosx/big-sur-arm64/contrib/4.3/tree_1.0-43.tgz'\n"]
-[2,"Content type 'application/x-gzip' length 172724 bytes (168 KB)\n=========================================="]
-[1,"The downloaded binary packages are in\n"]
-[1,"\t/var/folders/y7/3y5kfc_96j983v_w5tc8vvx80000gn/T//Rtmp0RfvS6/downloaded_packages\n"]
-[2,"========\ndownloaded 168 KB\n\n\n\n✔ Package 'tree' successfully installed.\n"]
